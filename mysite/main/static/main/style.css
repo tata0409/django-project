@@ -1,0 +1,8 @@
+body{
+    background-color: gray;
+}
+
+div{
+    border: black dotted 2px;
+    margin: 40px auto;
+}
